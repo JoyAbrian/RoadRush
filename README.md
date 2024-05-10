@@ -1,2 +1,26 @@
-# RoadRush
- endless driivng game built using Unity Bolt
+# Road Rush
+
+Road Rush is an endless runner game where players control a low-poly car navigating through a busy road to score points.
+
+## Gameplay
+
+In Road Rush, players must dodge various obstacles and vehicles while collecting coins to earn points. The game features simple touch controls for intuitive gameplay.
+
+### Features
+
+- Endless runner gameplay
+- Low-poly graphics style
+- Dynamic obstacles and challenges
+- Scoring system to track player progress
+
+### Installation
+
+To install and run the game locally for development purposes, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the project in Unity.
+3. Run the project in the Unity Editor or build it for your desired platform.
+
+## License
+
+Road Rush is licensed under the [MIT License](LICENSE).
