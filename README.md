@@ -24,7 +24,10 @@ To install and run the game locally for development purposes, follow these steps
 ## Credits
 
 - [Low Poly Car Vehicle Pack](https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-car-vehicle-pack-259182)
-- 
+- [Customizable Road Material/Shader](https://assetstore.unity.com/packages/vfx/shaders/substances/customizable-road-material-shader-260181)
+- []()
+- []()
+- []()
 
 ## License
 
