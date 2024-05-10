@@ -21,6 +21,11 @@ To install and run the game locally for development purposes, follow these steps
 2. Open the project in Unity.
 3. Run the project in the Unity Editor or build it for your desired platform.
 
+## Credits
+
+- [Low Poly Car Vehicle Pack](https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-car-vehicle-pack-259182)
+- 
+
 ## License
 
 Road Rush is licensed under the [MIT License](LICENSE).
