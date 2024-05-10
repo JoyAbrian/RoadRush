@@ -29,7 +29,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2000
   stringTagMap: {}
   disabledShaderPasses: []
   m_LockedProperties: 
@@ -55,19 +55,19 @@ Material:
     - _Centre_Gaps_Amount: 2
     - _Centre_Noise_Amount: 161.38
     - _Centre_Normal_Height: 58.8
-    - _Centre_Roughness: 0.955
+    - _Centre_Roughness: 0
     - _Centre_Width: 0.15
     - _Edge_Gap: 0.15
     - _Edge_Noise_Amount: 130.7
     - _Edge_Normal_Height: 33.72
-    - _Edge_Roughness: 0.414
+    - _Edge_Roughness: 0
     - _Edge_Width: 0.09
-    - _Normal_Strength: 0.01
+    - _Normal_Strength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Road_Noise_Amount: 307.1
     - _Road_Normal_Height: -0.33
-    - _Road_Roughness: 0.424
+    - _Road_Roughness: 0
     m_Colors:
     - _Centre_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Edge_Color: {r: 1, g: 0.6744842, b: 0, a: 0}
